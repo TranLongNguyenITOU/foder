@@ -1,0 +1,3 @@
+ref_area.label,indicator.label,source.label,sex.label,classif1.label,classif2.label,time,obs_value,obs_status.label,note_classif.label,note_indicator.label,note_source.label
+Viet Nam,"Unemployment by sex, age and rural / urban areas (thousands)",LFS - Labour Force Survey,Sex: Total,"Age (Youth, adults): 15+",Area type: Rural,2022,284.403,,,,Repository: ILO-STATISTICS - Micro data processing
+Viet Nam,"Unemployment by sex, age and rural / urban areas (thousands)",LFS - Labour Force Survey,Sex: Total,"Age (Youth, adults): 15+",Area type: Urban,2022,366.859,,,,Repository: ILO-STATISTICS - Micro data processing
